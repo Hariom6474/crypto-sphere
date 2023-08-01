@@ -1,0 +1,44 @@
+.signIn{
+    background-image: url("https://media4.giphy.com/media/3ohs7HdhQA4ffttvrO/200w.webp?cid=ecf05e47f7332r5xnfokpwg5vfrpsozq1swlzta8y9wk5ddy&ep=v1_gifs_search&rid=200w.webp&ct=g");
+    background-size: auto;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#signInLogo {
+    border-radius: 2px 100px;
+}
+
+.loginForm{
+    padding: 30px;
+    border: 3px solid rgb(159, 184, 237);
+    border-radius: 25px;
+    box-shadow: #1773EA;
+    box-shadow: 0 5px 10px rgba(141, 108, 231, 0.1);
+    background: linear-gradient(to bottom, #f9f9f9, #e5e5e5);
+
+} 
+
+.loginForm2{
+    padding: 30px;
+    border: 3px solid rgb(159, 184, 237);
+    border-radius: 25px;
+    box-shadow: #1773EA;
+    box-shadow: 0 5px 10px rgba(141, 108, 231, 0.1);
+    background: linear-gradient(to bottom, #f9f9f9, #e5e5e5);
+
+}
+
+#login-btn{
+    background-color: #1773EA;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+   
+    cursor: pointer;
+    margin-top: 8px;
+}
